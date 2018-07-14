@@ -1,5 +1,5 @@
-# robots.txt for http://www.foodraft.com/
+# robots.txt for https://www.foodraft.com/
 
 User-agent: *
 Disallow:
-Sitemap: http://www.foodraft.com/sitemap.xml
+Sitemap: https://www.foodraft.com/sitemap.xml
